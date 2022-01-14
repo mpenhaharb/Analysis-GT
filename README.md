@@ -11,3 +11,6 @@ Database:
 
 Codes:
 
+--> dendrograms_PQ.ipynb
+
+--> dendrograms.ipynb
